@@ -1,10 +1,52 @@
 {
   "id_map": {},
-  "mod_elements": [],
+  "mod_elements": [
+    {
+      "name": "Tnt",
+      "type": "tab",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tnt"
+    },
+    {
+      "name": "Tnt2",
+      "type": "tab",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tnt_2"
+    },
+    {
+      "name": "Tnt3",
+      "type": "tab",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tnt_3"
+    },
+    {
+      "name": "Tnt4",
+      "type": "tab",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tnt_4"
+    }
+  ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "itemGroup.tabtnt": "small bombs",
+      "itemGroup.tabtnt_2": "medium bombs",
+      "itemGroup.tabtnt_3": "big bombs",
+      "itemGroup.tabtnt_4": "huge bombs"
+    }
   },
   "workspaceSettings": {
     "modid": "nuclear_mod",

@@ -1,0 +1,11 @@
+{
+  "_fv": 10,
+  "_type": "tab",
+  "definition": {
+    "name": "big bombs",
+    "icon": {
+      "value": "Blocks.TNT"
+    },
+    "showSearch": false
+  }
+}

@@ -1,1 +1,6 @@
-{}
+{
+  "itemGroup.tabtnt": "small bombs",
+  "itemGroup.tabtnt_2": "medium bombs",
+  "itemGroup.tabtnt_3": "big bombs",
+  "itemGroup.tabtnt_4": "huge bombs"
+}
